@@ -1,112 +1,665 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "reverse_an_arraylist",
-            "request": "launch",
-            "mainClass": "reverse_an_arraylist",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "inc_order_square",
-            "request": "launch",
-            "mainClass": "inc_order_square",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "array_zero_and_one",
-            "request": "launch",
-            "mainClass": "array_zero_and_one",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "OOPSconceptpractice",
-            "request": "launch",
-            "mainClass": "OOPSconceptpractice",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "example",
-            "request": "launch",
-            "mainClass": "example",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "firstandlastoccurence",
-            "request": "launch",
-            "mainClass": "firstandlastoccurence",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "noduplicate",
-            "request": "launch",
-            "mainClass": "noduplicate",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "pathcounter",
-            "request": "launch",
-            "mainClass": "pathcounter",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "permutationofstr",
-            "request": "launch",
-            "mainClass": "permutationofstr",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "recursionapnikaksha",
-            "request": "launch",
-            "mainClass": "recursionapnikaksha",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "spiral",
-            "request": "launch",
-            "mainClass": "spiral",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "subsequences",
-            "request": "launch",
-            "mainClass": "subsequences",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "tilingproblem",
-            "request": "launch",
-            "mainClass": "tilingproblem",
-            "projectName": "JAVA apna college_ab89f7d3"
-        },
-        {
-            "type": "java",
-            "name": "towerofhanoi",
-            "request": "launch",
-            "mainClass": "towerofhanoi",
-            "projectName": "JAVA apna college_ab89f7d3"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "implementation",
+      "request": "launch",
+      "mainClass": "implementation",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "hashMaplec1",
+      "request": "launch",
+      "mainClass": "hashMaplec1",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "boundaryelementofBT",
+      "request": "launch",
+      "mainClass": "Binary_tree.boundaryelementofBT",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "constructTreeFromLevelOrderTraversal",
+      "request": "launch",
+      "mainClass": "Binary_tree.constructTreeFromLevelOrderTraversal",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "binarytreelec1",
+      "request": "launch",
+      "mainClass": "Binary_tree.binarytreelec1",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "n_knights",
+      "request": "launch",
+      "mainClass": "n_knights",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "rough2",
+      "request": "launch",
+      "mainClass": "rough2",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "nQuens",
+      "request": "launch",
+      "mainClass": "nQuens",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "permutationofstr",
+      "request": "launch",
+      "mainClass": "permutationofstr",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursion_backtracking_rat_in_an_actual_maze",
+      "request": "launch",
+      "mainClass": "recursion_backtracking_rat_in_an_actual_maze",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursion_rate_in_maze_4direction",
+      "request": "launch",
+      "mainClass": "recursion_rate_in_maze_4direction",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursionRatInMaze_2direction",
+      "request": "launch",
+      "mainClass": "recursionRatInMaze_2direction",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "hashmapInternalWorkingConcept",
+      "request": "launch",
+      "mainClass": "hashmapInternalWorkingConcept",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "hashmapques1",
+      "request": "launch",
+      "mainClass": "hashmapques1",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "HashMaplec1",
+      "request": "launch",
+      "mainClass": "HashMaplec1",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "mapconcept",
+      "request": "launch",
+      "mainClass": "mapconcept",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "hashset",
+      "request": "launch",
+      "mainClass": "hashset",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "queuePriorityQueue",
+      "request": "launch",
+      "mainClass": "queuePriorityQueue",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "queueReorder",
+      "request": "launch",
+      "mainClass": "queueReorder",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "queueDequeConcept",
+      "request": "launch",
+      "mainClass": "queueDequeConcept",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "queueCircularLinkedListImplementation",
+      "request": "launch",
+      "mainClass": "queueCircularLinkedListImplementation",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "circularQueueArrayImplementation",
+      "request": "launch",
+      "mainClass": "circularQueueArrayImplementation",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "queue_linkedlist_implementation",
+      "request": "launch",
+      "mainClass": "queue_linkedlist_implementation",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "queue_lec1_concepts",
+      "request": "launch",
+      "mainClass": "queue_lec1_concepts",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stack_prefix_to_postfix",
+      "request": "launch",
+      "mainClass": "stack_prefix_to_postfix",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stack_prefix_to_infix",
+      "request": "launch",
+      "mainClass": "stack_prefix_to_infix",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stack_postfix_to_infix",
+      "request": "launch",
+      "mainClass": "stack_postfix_to_infix",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stack_infix_to_postfix",
+      "request": "launch",
+      "mainClass": "stack_infix_to_postfix",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stack_infix_to_prefix",
+      "request": "launch",
+      "mainClass": "stack_infix_to_prefix",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "Stack_algebra_solver_method2",
+      "request": "launch",
+      "mainClass": "Stack_algebra_solver_method2",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stack_algebra_equation_solver",
+      "request": "launch",
+      "mainClass": "stack_algebra_equation_solver",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stacks_nextgreaternumber",
+      "request": "launch",
+      "mainClass": "stacks_nextgreaternumber",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "removeConsecutiveSubsequences",
+      "request": "launch",
+      "mainClass": "removeConsecutiveSubsequences",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stackbalancedbrackets",
+      "request": "launch",
+      "mainClass": "stackbalancedbrackets",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stack_linked_list_implementation",
+      "request": "launch",
+      "mainClass": "stack_linked_list_implementation",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stack_array_implementation",
+      "request": "launch",
+      "mainClass": "stack_array_implementation",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "rough",
+      "request": "launch",
+      "mainClass": "rough",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stackrough",
+      "request": "launch",
+      "mainClass": "stackrough",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stacklec1part2",
+      "request": "launch",
+      "mainClass": "stacklec1part2",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "stacklec1",
+      "request": "launch",
+      "mainClass": "stacklec1",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "circularlinkedlist",
+      "request": "launch",
+      "mainClass": "circularlinkedlist",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "doublylinkedlist",
+      "request": "launch",
+      "mainClass": "doublylinkedlist",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "linkedlistlec2leetcodeques",
+      "request": "launch",
+      "mainClass": "linkedlistlec2leetcodeques",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "linkedlistlec2leetcodeques$linkedlistques",
+      "request": "launch",
+      "mainClass": "linkedlistlec2leetcodeques$linkedlistques",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "linkedlistlec1part2",
+      "request": "launch",
+      "mainClass": "linkedlistlec1part2",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "linkedlistlec1",
+      "request": "launch",
+      "mainClass": "linkedlistlec1",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "binarysearchin2Darr",
+      "request": "launch",
+      "mainClass": "binarysearchin2Darr",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "OOPSconceptpractice",
+      "request": "launch",
+      "mainClass": "OOPSconceptpractice",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "OOPspw",
+      "request": "launch",
+      "mainClass": "OOPspw",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "search_min_ele_in_roated_sorted_array",
+      "request": "launch",
+      "mainClass": "search_min_ele_in_roated_sorted_array",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "serch_min_ele_in_roated_sorted_array",
+      "request": "launch",
+      "mainClass": "serch_min_ele_in_roated_sorted_array",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "binarysearch",
+      "request": "launch",
+      "mainClass": "binarysearch",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "sortingquestion2",
+      "request": "launch",
+      "mainClass": "sortingquestion2",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "bucketsort",
+      "request": "launch",
+      "mainClass": "bucketsort",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "radixsort",
+      "request": "launch",
+      "mainClass": "radixsort",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "countsortmethod2",
+      "request": "launch",
+      "mainClass": "countsortmethod2",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "countsort",
+      "request": "launch",
+      "mainClass": "countsort",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "QuickSort2",
+      "request": "launch",
+      "mainClass": "QuickSort2",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "quicksort",
+      "request": "launch",
+      "mainClass": "quicksort",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "mergesort",
+      "request": "launch",
+      "mainClass": "mergesort",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "ex",
+      "request": "launch",
+      "mainClass": "ex",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "sortingimpques",
+      "request": "launch",
+      "mainClass": "sortingimpques",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "insertionsort",
+      "request": "launch",
+      "mainClass": "insertionsort",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "selectionsort",
+      "request": "launch",
+      "mainClass": "selectionsort",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "bubblesort",
+      "request": "launch",
+      "mainClass": "bubblesort",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursionlec9",
+      "request": "launch",
+      "mainClass": "recursionlec9",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "RecursionLec8",
+      "request": "launch",
+      "mainClass": "RecursionLec8",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursionlec8",
+      "request": "launch",
+      "mainClass": "recursionlec8",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursionlec7",
+      "request": "launch",
+      "mainClass": "recursionlec7",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "findFirstAndLastIndices",
+      "request": "launch",
+      "mainClass": "findFirstAndLastIndices",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "FindAllIndicesOfArrayInArrayList",
+      "request": "launch",
+      "mainClass": "FindAllIndicesOfArrayInArrayList",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "findAllIndicesOfAraayInArraylist",
+      "request": "launch",
+      "mainClass": "findAllIndicesOfAraayInArraylist",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "linearsearchrecursion",
+      "request": "launch",
+      "mainClass": "linearsearchrecursion",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursionlec5",
+      "request": "launch",
+      "mainClass": "recursionlec5",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "gcd",
+      "request": "launch",
+      "mainClass": "gcd",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursionlec3",
+      "request": "launch",
+      "mainClass": "recursionlec3",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursionlec2",
+      "request": "launch",
+      "mainClass": "recursionlec2",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "pathcounter",
+      "request": "launch",
+      "mainClass": "pathcounter",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "recursionlec1",
+      "request": "launch",
+      "mainClass": "recursionlec1",
+      "projectName": "JAVA pw skills_a0a19c81"
+    },
+    {
+      "type": "java",
+      "name": "reverse_an_arraylist",
+      "request": "launch",
+      "mainClass": "reverse_an_arraylist",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "inc_order_square",
+      "request": "launch",
+      "mainClass": "inc_order_square",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "array_zero_and_one",
+      "request": "launch",
+      "mainClass": "array_zero_and_one",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "OOPSconceptpractice",
+      "request": "launch",
+      "mainClass": "OOPSconceptpractice",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "example",
+      "request": "launch",
+      "mainClass": "example",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "firstandlastoccurence",
+      "request": "launch",
+      "mainClass": "firstandlastoccurence",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "noduplicate",
+      "request": "launch",
+      "mainClass": "noduplicate",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "pathcounter",
+      "request": "launch",
+      "mainClass": "pathcounter",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "permutationofstr",
+      "request": "launch",
+      "mainClass": "permutationofstr",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "recursionapnikaksha",
+      "request": "launch",
+      "mainClass": "recursionapnikaksha",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "spiral",
+      "request": "launch",
+      "mainClass": "spiral",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "subsequences",
+      "request": "launch",
+      "mainClass": "subsequences",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "tilingproblem",
+      "request": "launch",
+      "mainClass": "tilingproblem",
+      "projectName": "JAVA apna college_ab89f7d3"
+    },
+    {
+      "type": "java",
+      "name": "towerofhanoi",
+      "request": "launch",
+      "mainClass": "towerofhanoi",
+      "projectName": "JAVA apna college_ab89f7d3"
+    }
+  ]
 }
